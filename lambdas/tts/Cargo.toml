@@ -1,0 +1,29 @@
+[package]
+name = "tts-lambda"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[dependencies]
+async-std = { version = "1.11.0", features = ["attributes"] }
+tokio = { version = "1.18", features = ["full"] }
+warp = "0.3"
+serde = "1.0"
+serde_json = "1.0"
+serde_derive = "1.0"
+log = "0.4"
+simple_logger = "1.16"
+tracing = "0.1"
+tracing-subscriber = "0.3"
+simple-error = "0.2"
+reqwest = { version = "0.11", default-features = false, features = ["rustls-tls"] }
+gcp_auth = "0.7.3"
+anyhow = "1.0"
+
+[dev-dependencies]
+httpmock = "0.6"
+rspec = "1.0"
+hamcrest = "*"
+mockall = "0.11.0"
+mockall_double = "0.2.1"

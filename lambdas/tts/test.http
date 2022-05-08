@@ -1,0 +1,19 @@
+POST localhost:8080/test
+Content-Type: application/json
+
+{
+"asdf": "asdf"
+}
+
+###
+
+POST https://tts-hzc3i5dapa-ew.a.run.app/tts
+Content-Type: application/json
+
+{
+  "language": "es",
+  "countryCode": "ES",
+  "word": "eudes"
+}
+
+###
