@@ -4,9 +4,8 @@
     <cargoProject FILE="$PROJECT_DIR$/lambdas/tts/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea78a399-ef75-4184-9c65-b3f25a421b0b" name="Changes" comment="Add support for spaces">
-      <change afterPath="$PROJECT_DIR$/tinm-frontend/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thatisnotmy.name.iws" beforeDir="false" afterPath="$PROJECT_DIR$/thatisnotmy.name.iws" afterDir="false" />
+    <list default="true" id="ea78a399-ef75-4184-9c65-b3f25a421b0b" name="Changes" comment="Add 404 redirect hack for GH pages">
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/tinm-frontend/public/404.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +89,7 @@
     <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lambdas/tts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tinm-frontend/public" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -102,6 +101,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tinm-frontend/public" />
       <recent name="$PROJECT_DIR$/lambdas/tts" />
       <recent name="$PROJECT_DIR$/tinm-frontend/src/routes" />
     </key>
@@ -167,7 +167,7 @@
       <updated>1651929278046</updated>
       <workItem from="1651929279663" duration="362000" />
       <workItem from="1651930087283" duration="238000" />
-      <workItem from="1651930380834" duration="57313000" />
+      <workItem from="1651930380834" duration="57572000" />
     </task>
     <task id="LOCAL-00001" summary="Draft">
       <created>1652027347253</created>
@@ -190,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652028990693</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add 404 redirect hack for GH pages">
+      <created>1652029548014</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652029548014</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +220,8 @@
     <MESSAGE value="Draft" />
     <MESSAGE value="Move docs to root" />
     <MESSAGE value="Add support for spaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add support for spaces" />
+    <MESSAGE value="Add 404 redirect hack for GH pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 404 redirect hack for GH pages" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
