@@ -28,7 +28,7 @@ export function TTS() {
         referrerPolicy: 'no-referrer', // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
         body: JSON.stringify({
           language,
-          word,
+          word: formatText(word),
           countryCode: country.toUpperCase(),
         }) // body data type must match "Content-Type" header
       })
@@ -73,6 +73,11 @@ export function TTS() {
     }
 
     return new Blob(byteArrays, {type: contentType});
+  }
+
+  const formatText = (text) => {
+    if(!text) return ''
+    return text.replaceAll(',', ' ')
   }
 
   if (error) {

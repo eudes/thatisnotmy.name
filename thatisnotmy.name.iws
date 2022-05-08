@@ -4,26 +4,10 @@
     <cargoProject FILE="$PROJECT_DIR$/lambdas/tts/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea78a399-ef75-4184-9c65-b3f25a421b0b" name="Changes" comment="Draft">
-      <change afterPath="$PROJECT_DIR$/thatisnotmy.name.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thatisnotmy.name.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/thatisnotmy.name.ipr" afterDir="false" />
+    <list default="true" id="ea78a399-ef75-4184-9c65-b3f25a421b0b" name="Changes" comment="Move docs to root">
       <change beforePath="$PROJECT_DIR$/thatisnotmy.name.iws" beforeDir="false" afterPath="$PROJECT_DIR$/thatisnotmy.name.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/docs/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/logo192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/logo512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/css/main.073c9b0a.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/css/main.073c9b0a.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/css/main.073c9b0a.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/css/main.073c9b0a.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/js/787.5c9c9cef.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/787.5c9c9cef.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/js/787.5c9c9cef.chunk.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/787.5c9c9cef.chunk.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/js/main.9bfa7a3b.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/main.9bfa7a3b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/js/main.9bfa7a3b.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/main.9bfa7a3b.js.LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/js/main.9bfa7a3b.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/main.9bfa7a3b.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tinm-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/.husky/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/tinm-frontend/.husky/pre-commit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/src/routes/tts.js" beforeDir="false" afterPath="$PROJECT_DIR$/tinm-frontend/src/routes/tts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +168,7 @@
       <updated>1651929278046</updated>
       <workItem from="1651929279663" duration="362000" />
       <workItem from="1651930087283" duration="238000" />
-      <workItem from="1651930380834" duration="55528000" />
+      <workItem from="1651930380834" duration="56710000" />
     </task>
     <task id="LOCAL-00001" summary="Draft">
       <created>1652027347253</created>
@@ -193,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652027347254</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Move docs to root">
+      <created>1652027626572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652027626572</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +205,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Draft" />
-    <option name="LAST_COMMIT_MESSAGE" value="Draft" />
+    <MESSAGE value="Move docs to root" />
+    <option name="LAST_COMMIT_MESSAGE" value="Move docs to root" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
