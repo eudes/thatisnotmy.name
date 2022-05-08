@@ -4,22 +4,26 @@
     <cargoProject FILE="$PROJECT_DIR$/lambdas/tts/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea78a399-ef75-4184-9c65-b3f25a421b0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambdas/tts/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambdas/tts/.gcloudignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambdas/tts/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambdas/tts/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambdas/tts/manual-deploy-cmds.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambdas/tts/src/tts_api.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambdas/tts/src/tts_api_spec.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambdas/tts/start.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambdas/tts/test.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinm-frontend/.husky/pre-commit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinm-frontend/src/CachingApi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinm-frontend/src/TODO.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinm-frontend/src/routes/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinm-frontend/src/routes/tts.js" afterDir="false" />
+    <list default="true" id="ea78a399-ef75-4184-9c65-b3f25a421b0b" name="Changes" comment="Draft">
+      <change afterPath="$PROJECT_DIR$/thatisnotmy.name.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thatisnotmy.name.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/thatisnotmy.name.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thatisnotmy.name.iws" beforeDir="false" afterPath="$PROJECT_DIR$/thatisnotmy.name.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/docs/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/logo512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/css/main.073c9b0a.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/css/main.073c9b0a.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/css/main.073c9b0a.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/css/main.073c9b0a.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/js/787.5c9c9cef.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/787.5c9c9cef.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/js/787.5c9c9cef.chunk.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/787.5c9c9cef.chunk.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/js/main.9bfa7a3b.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/main.9bfa7a3b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/js/main.9bfa7a3b.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/main.9bfa7a3b.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/js/main.9bfa7a3b.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/main.9bfa7a3b.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/docs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tinm-frontend/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +57,31 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1652027362" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1652027361" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="hho2zyzn" />
   </component>
@@ -74,6 +103,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="CONST" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lambdas/tts" />
@@ -82,7 +113,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2027027" />
-    <property name="settings.editor.selected.configurable" value="language.rust" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -92,6 +123,7 @@
       <recent name="$PROJECT_DIR$/tinm-frontend/src/routes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$/lambdas/tts" />
     </key>
   </component>
@@ -152,8 +184,16 @@
       <updated>1651929278046</updated>
       <workItem from="1651929279663" duration="362000" />
       <workItem from="1651930087283" duration="238000" />
-      <workItem from="1651930380834" duration="55089000" />
+      <workItem from="1651930380834" duration="55528000" />
     </task>
+    <task id="LOCAL-00001" summary="Draft">
+      <created>1652027347253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652027347254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +213,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="Draft" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

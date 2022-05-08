@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GitSharedSettings">
+    <option name="FORCE_PUSH_PROHIBITED_PATTERNS">
+      <list>
+        <option value="master, main" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxProjectSettings">
+    <option name="commitMessageIssueKeyValidationOverride">
+      <BoolValueOverride>
+        <option name="enabled" value="true" />
+      </BoolValueOverride>
+    </option>
+    <option name="commitMessageValidationEnabledOverride">
+      <BoolValueOverride>
+        <option name="enabled" value="true" />
+      </BoolValueOverride>
+    </option>
+  </component>
   <component name="InspectionProjectProfileManager">
     <profile version="1.0">
       <option name="myName" value="Project Default" />
@@ -87,6 +106,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/thatisnotmy.name.iml" filepath="$PROJECT_DIR$/thatisnotmy.name.iml" />
       <module fileurl="file://$PROJECT_DIR$/tinm-frontend/tinm-frontend.iml" filepath="$PROJECT_DIR$/tinm-frontend/tinm-frontend.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambdas/tts/tts.iml" filepath="$PROJECT_DIR$/lambdas/tts/tts.iml" />
     </modules>
