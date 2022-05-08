@@ -4,8 +4,8 @@
     <cargoProject FILE="$PROJECT_DIR$/lambdas/tts/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea78a399-ef75-4184-9c65-b3f25a421b0b" name="Changes" comment="Add 404 redirect hack for GH pages">
-      <change beforePath="$PROJECT_DIR$/tinm-frontend/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/tinm-frontend/public/404.html" afterDir="false" />
+    <list default="true" id="ea78a399-ef75-4184-9c65-b3f25a421b0b" name="Changes" comment="Fix hack?">
+      <change beforePath="$PROJECT_DIR$/tinm-frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tinm-frontend/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -167,7 +168,7 @@
       <updated>1651929278046</updated>
       <workItem from="1651929279663" duration="362000" />
       <workItem from="1651930087283" duration="238000" />
-      <workItem from="1651930380834" duration="57572000" />
+      <workItem from="1651930380834" duration="57764000" />
     </task>
     <task id="LOCAL-00001" summary="Draft">
       <created>1652027347253</created>
@@ -197,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652029548014</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix hack?">
+      <created>1652029707182</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652029707182</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,7 +229,8 @@
     <MESSAGE value="Move docs to root" />
     <MESSAGE value="Add support for spaces" />
     <MESSAGE value="Add 404 redirect hack for GH pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 404 redirect hack for GH pages" />
+    <MESSAGE value="Fix hack?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix hack?" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
